@@ -13,4 +13,4 @@ GPG Suite installieren: https://gpgtools.org/
 
 GPG importieren.
 
-{{ (page.filePathClean)|regex_replace('.*(?=\/pages\/)', '') }}
+{{ page.filePathClean|regex_replace('.*(?=\/pages\/)', '') }}

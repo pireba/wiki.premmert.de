@@ -14,6 +14,9 @@ GPG Suite installieren: https://gpgtools.org/
 GPG importieren.
 
 {{ page.filepath() }}
+
 {{ page.filepathclean() }}
+
 {{ page.path() }}
+
 {{ page.relativePagePath() }}

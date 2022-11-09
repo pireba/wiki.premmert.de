@@ -1,5 +1,8 @@
 ---
 title: Eclipse
+process:
+    markdown: true
+    twig: true
 ---
 
 # GPG

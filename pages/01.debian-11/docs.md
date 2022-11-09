@@ -6,6 +6,7 @@ taxonomy:
 process:
     markdown: true
     twig: true
+twig_first: true
 ---
 
 {% macro recursiveTOC(pages) %}
